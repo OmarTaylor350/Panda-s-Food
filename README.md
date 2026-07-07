@@ -1,7 +1,7 @@
 # Panda-s-Food
 Esta es una página web moderna y responsiva diseñada para un negocio de comida rápida que ofrece productos como tacos, hamburguesas, papas fritas, bebidas y más. El sitio ha sido desarrollado utilizando tecnologías web estándar como HTML5, CSS3 y JavaScript, junto con Node.js para gestionar la lógica del servidor. El sitio está desplegado usando Surge.sh, lo que permite un hosting rápido y gratuito para proyectos estáticos.
 
-✨ Funcionalidades del Sitio:
+ Funcionalidades del Sitio:
 Diseño atractivo y adaptado a móviles (responsive), ideal para que los clientes puedan navegar desde cualquier dispositivo.
 
 Menú dinámico con imágenes, descripciones y precios de cada platillo.
@@ -26,4 +26,4 @@ Node.js: para manejar datos del servidor, como formularios de contacto o futuros
 Surge.sh: para alojar y compartir el sitio fácilmente.
 
 
-Pagina web: https://tested-legs.surge.sh/# 
+Pagina web: https://lacomidadelpanda.netlify.app/
